@@ -6,15 +6,20 @@
 
 html {
 	background: #0E141B;
-	color: #fcfcfc;
+
 	box-sizing: border-box;
 	height: 100%
 }
 
+.heads{
+	bottom: -10px;
+	position: relative;
+}
 
 body {
 
-
+	background: #181E25;
+	color: white;
 
 	margin: 0 auto;
 	width: 100%;
@@ -22,12 +27,9 @@ body {
 	max-width: 400px;
 
 	padding: 20px 5% 60px;
-
-	background: #faf9f5;
 	font-size: 1rem;
 	line-height: 1.8rem;
 	font-family: tulisan;
-	color: rgb(87, 87, 87)
 }
 
 
@@ -165,14 +167,15 @@ p {
 	display: none
 }
 a {
-	color: rgb(87, 87, 87)
+	color: white;
 }
 header {
 	display: flex;
 	justify-content: space-between;
-	margin-bottom: 20px;
+	margin-bottom: -20px;
 	font-size: 20px
 }
+
 #theme {
 	font-size: 25px
 }
@@ -205,6 +208,8 @@ blockquote {
 	padding-left: 5px;
 	font-style: italic
 }
+
+
 @media only screen and (max-width: 1060px) {
 	header{
 		margin-bottom: 20px;
@@ -268,14 +273,10 @@ blockquote {
 		font-size: 1em;
 		margin-top: -15px
 	}
-	iframe {
-		height: 90px
-	}
+
 }
 @media only screen and (max-width: 1280px) {
-	iframe {
-		height: 90px
-	}
+
 }
 .list {
 	position: relative;
@@ -321,9 +322,9 @@ a:active {
 	outline: none
 }
 .search {
-	background: lightgrey;
+	background: #313942;
 	box-sizing: border-box;
-	color: black;
+	color: #fcfcfc;
 	border: 0px;
 	padding: 10px;
 	width: 100%;
@@ -332,6 +333,7 @@ a:active {
 	margin-bottom: 20px;
 	outline: none
 }
+/*
 .darkmode .search {
 	background: #313942;
 	box-sizing: border-box;
@@ -344,6 +346,7 @@ a:active {
 	margin-bottom: 20px;
 	outline: none
 }
+*/
 .title {
 	font-size: 1.5rem;
 	font-weight: bold
@@ -366,7 +369,7 @@ a:active {
 }
 
 .boxes:hover {
-	background: lightgrey
+	background: #313942
 }
 .darkmode .boxes:hover {
 	background: #313942
@@ -422,6 +425,7 @@ footer a{
 	align-items: center;
 	justify-content: space-between;
 }
+
 
 .img-small {
 	width: 80px;
