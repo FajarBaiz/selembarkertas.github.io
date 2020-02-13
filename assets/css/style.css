@@ -15,9 +15,9 @@ body {
 	padding: 20px 5% 60px;
 
 	background: #faf9f5;
-	font-size: 1.2rem;
+	font-size: 1rem;
 	line-height: 1.8rem;
-	font-family:"Source Sans Pro","sans-serif";
+	font-family: tulisan;
 	color: rgb(87, 87, 87)
 }
 
@@ -115,8 +115,9 @@ html.transition *:after {
 
 @font-face {
         font-family: tulisan;
-        src: url(../font/sf-ui.otf);
+        src: url(../font/roboto-regular.ttf);
 }
+
 .other{
 	display: flex;
 	justify-content: space-between;
@@ -195,10 +196,17 @@ blockquote {
 	padding-left: 5px;
 	font-style: italic
 }
+@media only screen and (max-width: 1060px) {
+	header{
+		margin-bottom: -20px;
+
+	}
+}
 @media only screen and (max-width: 760px) {
 	body {
-		width: 90%
+		width: 85%
 	}
+	
 	.landing {
 		display: block;
 		font-size: 0.9rem
@@ -404,7 +412,8 @@ footer a{
 .footer {
 	display: flex;
 	font-size: 1rem;
-	align-items: center
+	align-items: center;
+	justify-content: space-between;
 }
 
 .img-small {
