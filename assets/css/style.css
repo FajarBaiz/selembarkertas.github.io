@@ -203,7 +203,11 @@ blockquote {
 
 
 @media only screen and (max-width: 760px) {
+	.o {
+	font-size: 0.5rem;
 
+
+}
 	body{
 		width: 90%;
 	}
