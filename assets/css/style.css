@@ -413,6 +413,12 @@ footer a{
 	justify-content: space-between;
 }
 
+.o {
+	display: flex;
+	font-size: 0.8rem;
+	align-items: center;
+
+}
 
 .img-small {
 	width: 80px;
@@ -420,11 +426,14 @@ footer a{
 	border-radius: 50%
 }
 .img-big {
-	width: 100px;
-	height: 100px;
+	width: 200px;
+	height: 200px;
 
 }
 .footer img {
+	margin-right: 20px
+}
+.o img {
 	margin-right: 20px
 }
 .darkmode footer {
