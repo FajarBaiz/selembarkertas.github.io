@@ -4,32 +4,23 @@
 	}
 }
 
-html {
-	background: #0E141B;
 
-	box-sizing: border-box;
-	height: 100%
-}
 
 .heads{
-	bottom: 10px;
+	height: 100px;
+	bottom: 25px;
 	position: relative;
 }
 
 body {
 
-	background: #181E25;
-	color: white;
-
-	margin: 0 auto;
-	width: 100%;
-	min-height: 100%;
-	max-width: 400px;
-
-	padding: 20px 5% 60px;
+	background: #F3F3F3;
+	color: rgb(87, 87, 87);
+	margin: 3% auto;
+	width: 50%;
 	font-size: 1rem;
 	line-height: 1.8rem;
-	font-family: "Source Sans Pro","sans-serif"
+	font-family: "Source Sans Pro","sans-serif";
 }
 
 
@@ -142,7 +133,7 @@ p {
 	font-size: 0.9em
 }
 .line {
-	border-bottom: 2px solid white;
+	border-bottom: 2px solid black;
 	width: 100px;
 	display: block;
 	margin-top: 10px
@@ -167,7 +158,7 @@ p {
 	display: none
 }
 a {
-	color: white;
+	color: rgb(87, 87, 87);
 }
 header {
 	display: flex;
@@ -210,14 +201,12 @@ blockquote {
 }
 
 
-@media only screen and (max-width: 1060px) {
-	header{
-		margin-bottom: 20px;
 
-	}
-}
 @media only screen and (max-width: 760px) {
 
+	body{
+		width: 90%;
+	}
 	
 	.landing {
 		display: block;
@@ -275,9 +264,7 @@ blockquote {
 	}
 
 }
-@media only screen and (max-width: 1280px) {
 
-}
 .list {
 	position: relative;
 	margin-top: 13px
@@ -322,7 +309,7 @@ a:active {
 	outline: none
 }
 .search {
-	background: #313942;
+	background: lightgrey;
 	box-sizing: border-box;
 	color: #fcfcfc;
 	border: 0px;
@@ -333,7 +320,7 @@ a:active {
 	margin-bottom: 20px;
 	outline: none
 }
-/*
+
 .darkmode .search {
 	background: #313942;
 	box-sizing: border-box;
@@ -346,7 +333,7 @@ a:active {
 	margin-bottom: 20px;
 	outline: none
 }
-*/
+
 .title {
 	font-size: 1.5rem;
 	font-weight: bold
@@ -369,7 +356,7 @@ a:active {
 }
 
 .boxes:hover {
-	background: #313942
+	background: lightgrey
 }
 .darkmode .boxes:hover {
 	background: #313942
@@ -453,10 +440,4 @@ footer a{
 	background: #2A343E;
 	width: 60%;
 	color: white
-}
-@media only screen and (max-width: 600px) {
-	body {
-		max-width: 90%;
-		margin: 0 auto
-	}
 }
