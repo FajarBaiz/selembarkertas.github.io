@@ -417,6 +417,7 @@ footer a{
 	display: flex;
 	font-size: 0.8rem;
 	align-items: center;
+	justify-content: space-between;
 
 }
 
