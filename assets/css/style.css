@@ -4,13 +4,23 @@
 	}
 }
 
+html {
+	background: #0E141B;
+	color: #fcfcfc;
+	box-sizing: border-box;
+	height: 100%
+}
 
 
 body {
 
-	width: 60%;
+
 
 	margin: 0 auto;
+	width: 100%;
+	min-height: 100%;
+	max-width: 400px;
+
 	padding: 20px 5% 60px;
 
 	background: #faf9f5;
@@ -197,14 +207,12 @@ blockquote {
 }
 @media only screen and (max-width: 1060px) {
 	header{
-		margin-bottom: -20px;
+		margin-bottom: 20px;
 
 	}
 }
 @media only screen and (max-width: 760px) {
-	body {
-		width: 85%
-	}
+
 	
 	.landing {
 		display: block;
