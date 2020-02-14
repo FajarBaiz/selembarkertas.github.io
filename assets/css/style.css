@@ -322,7 +322,7 @@ a:active {
 	outline: none
 }
 .search {
-	background: lightgrey;
+	background: #EFEFF4;
 	box-sizing: border-box;
 	color: #fcfcfc;
 	border: 0px;
@@ -369,7 +369,7 @@ a:active {
 }
 
 .boxes:hover {
-	background: lightgrey
+	background: #EFEFF4;
 }
 .darkmode .boxes:hover {
 	background: #313942
