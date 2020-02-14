@@ -4,6 +4,11 @@
 	}
 }
 
+.atas{
+	top: -20px; 
+	position: relative;
+}
+
 b {
 	background: #EFEFF4;
 	padding: 3px; 
@@ -214,7 +219,7 @@ blockquote {
 }
 
 @media only screen and (max-width: 367px) {
-	
+
 }
 
 @media only screen and (max-width: 760px) {
