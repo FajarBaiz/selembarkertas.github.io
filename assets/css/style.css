@@ -29,7 +29,7 @@ body {
 	width: 50%;
 	font-size: 1rem;
 	line-height: 1.6rem;
-	font-family: "tulisan";
+	font-family: "tulisans";
 }
 
 
@@ -125,8 +125,12 @@ html.transition *:after {
 }
 
 @font-face {
-        font-family: tulisan;
+        font-family: tulisans;
         src: url(../font/sf-ui.otf);
+}
+@font-face {
+        font-family: tulisan;
+        src: url(../font/roboto-regular.ttf);
 }
 
 .other{
