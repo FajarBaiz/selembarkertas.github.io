@@ -10,7 +10,7 @@
 }
 
 b {
-	background: #EFEFF4;
+	background: #D3D3D3;
 	padding: 3px; 
 	padding-left: 10px; padding-right: 10px;
 	border-radius: 30px; 
@@ -28,7 +28,7 @@ b {
 
 body {
 
-	background: white;
+	background: #F3F3F3;
 	color: rgb(87, 87, 87);
 	margin: 0% auto;
 	width: 50%;
@@ -380,7 +380,7 @@ a:active {
 }
 
 .boxes:hover {
-	background: #EFEFF4;
+	background: lightgrey
 }
 .darkmode .boxes:hover {
 	background: #313942
