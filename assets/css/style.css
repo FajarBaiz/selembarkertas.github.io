@@ -10,7 +10,7 @@
 }
 
 .b {
-	background: #E1E1E1;
+	background: #EFEFF4;
 	padding: 3px; 
 	padding-left: 10px; padding-right: 10px;
 	border-radius: 30px; 
@@ -28,7 +28,7 @@
 
 body {
 
-	background: #F3F3F3;
+	background: #FFFFFF;
 	color: rgb(87, 87, 87);
 	margin: 0% auto;
 	width: 50%;
@@ -335,7 +335,7 @@ a:active {
 .search {
 	background: #EFEFF4;
 	box-sizing: border-box;
-	color: #fcfcfc;
+	color: #000;
 	border: 0px;
 	padding: 10px;
 	width: 100%;
@@ -380,7 +380,7 @@ a:active {
 }
 
 .boxes:hover {
-	background: lightgrey
+	background: #EFEFF4;
 }
 .darkmode .boxes:hover {
 	background: #313942
