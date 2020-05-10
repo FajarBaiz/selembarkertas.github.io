@@ -1,18 +1,47 @@
-usah risau hari esok 
+Malam ini entah arah mata angin mana
+Aroma kopi datang melambai
+mengaduk angan
+Ingatkan kisah secangkir kopi yang kandas
 
-Mengapa aku harus begitu repot dan merisaukan hari esokku yang belum tiba? Bukankah sudah cukup hidup dengan memikirkan hari ini saja? 
+Mengaduk-aduk sepenggal hati yang tak tuntas menyeruput rasa
+Diam dengan setia
+Di selembar kertas puisi yang belum tuntas kau tulis
+Sedang penamu telah terlelap pulas
+Meninabobokan mimpi
 
-doni & teman2 akan bermain futsal esok hari dan akan menjadi hari yg menyenangkan khusus bagi doni, karena di pertandingan sebelum nya ia mencetak banyak sekali gol, lalu doni pun sedang melamun, ia sedang memikirkan dirinya menjadi superstar di lapangan futsal karena mencetak banyak gol, dan saking halu nya dia menggambarkan visual wanita sedang menyemangatinya, dan doni berharap hal yang ia pikirkan akan terjadi. esok hari pun telah tiba, doni lantas langsung bergegas menuju lapangan futsal, lalu apa yg terjadi? dari 10 teman doni hanya 5 orang yg hadir, doni pun merasa kecewa, akhirnya dia bermain dengan 5 orang saja, doni tidak pernah mengharapkan hal ini terjadi, bertolak belakang dengan apa yang dipikirkan kemarin, bahkan tidak ada wanita satupun di lapangan tersebut.
+Dan aromanya  masih menari di ingatan
+Sedang malam melangkahi batas gelap
+ke arah timur menuju arunika
+Segaris horizon mengajak angan, kembali membangunkan asa
 
-kadang alur kehidupan itu unik, ketika apa yg kita rencanakan tidak sesuai dengan kenyataan, dan anda akan merasa kecewa.
+Kuteguk kopi yang hanya tinggal ampas
+Dan tuntaslah sebait sajak
+Dalam secarik kertas merah muda
+yang tertinggal, kembali ciptakan rindu tanpa  puan
 
-Overthinker
-orang yg selalu berfikir berlebihan,cenderung menebak nebak keputusan yg mereka buat atau membayangkan hal buruk akan datang setiap saat.
-Berpikir berlebih juga cenderung mencegah manusia untuk menyelesaikan sebuah permasalahan dan terkadang memunculkan malapetaka bagi suasana hati. Rasa khawatir akan menggiring seseorang kepada hal-hal negatif tentang masa depan atau apa yang akan terjadi nanti, atau sebaliknya. 
+Tangerang, 23 Febuari 2019
 
-Tidak usah pusing memikirkan apa yang akan terjadi besok dan menyesali yang sudah terjadi kemarin. Kalau pikiran Anda hanya fokus pada apa yang terjadi kemarin dan besok, hari ini tidak akan kita lalui dengan maksimal. Padahal, kalau saja Anda berbuat total untuk hari ini, banyak hal menyenangkan yang mungkin saja terjadi. jadi berhentilah memikirkan hal yg berlebihan. berpikirlah untuk hari ini, saat ini, dan detik ini, pikirkan apa yg akan kamu lakukan untuk hari ini, buatlah planning yg tepat di masa depan & jangan memikirkan hal yg tidak perlu/yg mustahil kamu dapatkan (tanpa usaha) Malah terkadang apa yg tidak kita pikirkan akan lebih menyenangkan dibanding apa yg selalu kita pikirkan
+PENGENGGAM NGILU
 
-Jangan menyiksa diri dengan memikirkan apa yang terjadi esok hari, sebab hidup kamu yang sebenarnya adalah hari ini
+Malam kian pekat di gerbang gelap
+Dan rindu merayap membuka cerita lama
+Sepotong kisah berdetak dalam irama retak
+Akankah cinta menghapus goresannya?
 
+Musim  diam berlalu
+Kau masih masih saja terpaku, kelu
+Menatap realita semu
+Apakah hatimu membeku?
 
-“Bahwa hidup ini penuh misteri dan tidak sesederhana yang kamu bayangkan. Perbuatan terkadang tidak selalu cukup untuk mewakili perasaan, dalam beberapa hal kamu harus mengatakannya.”
+Hingga menjelma batu
+Salahkah waktu yang telah jadi hantu?
+Dan membiarkan sembilu menusuk ulu
+Mengapa masih kau genggam ngilu?
+
+Sedangkan cerita itu telah berdebu
+Biarlah luka jadi terumbu
+Atau jadi tungku
+Agar diri bangkit berpacu
+
+Tangerang, 26 Maret 2019
+Elvida Busma
