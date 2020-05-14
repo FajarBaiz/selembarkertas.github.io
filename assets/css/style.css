@@ -137,6 +137,10 @@ html.transition *:after {
         font-family: tulisan;
         src: url(../font/roboto-regular.ttf);
 }
+@font-face {
+        font-family: tulisanskuy;
+        src: url(../font/ontohood.otf);
+}
 
 .other{
 	display: flex;
