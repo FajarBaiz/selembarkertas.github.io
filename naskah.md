@@ -1,13 +1,30 @@
-disaat kamu mulai putus asa apa yg akan kamu lakukan? mungkin sebagian besar orang memilih untuk tidak menyerah dan mulai mencoba lagi, ada juga sebagian kecil orang yg berfikir untuk mengakhiri hidupnya dikarenakan atas penderitaan yg telah melanda hidupnya, atau disaat kamu ujian sekolah dan kamu tidak bisa mengerjakan soal karna tidak belajar, apa yg akan kamu lakukan? mungkin ada yg mengasal atau pilihan alternatif nya yaitu mencotek, dan itu semua adalah pilihan. 
-Pada dasarnya setiap orang memiliki kemampuan untuk membuat berbagai pilihan alternatif pemecah masalah yg dihadapinya, namun tidak semua orang mampu memilih dan melakukan pemecahan tersebut dengan baik. 
+Sapi Warna Ungu
 
-beberapa orang mungkin akan tetap tenang dan bersikap biasa saja saat menghadapi sebuah masalah dan kemudian orang tersebut bisa memikirkan dan menganalisa masalahnya dengan cerdas, tapi ada banyak orang yang langsung panik bila dihadapkan pada sebuah masalah dan orang tersebut justru mengambil jalan pintas dalam menyelesaikan masalah tersebut atau mungkin tak jarang seseorang akan melarikan diri dari permasalahan yang sedang dihadapinya
+apa kabar nya temen temen? semoga sehat semua, amin..tetap waspada, tetap di rumah dan jangan lupa berkarya. balik lagi di podcast ini,  
 
-Ketika satu rencana gagal maka kita perlu segera mencari alternatif baru untuk terus fokus dalam mencari jalan keluar. Ketika harapan gagal dicapai, maka mungkin kita bisa mencari alternatif harapan lain yang bisa membuat kita bahagia. Jangan terpaku pada apa yang kita tidak bisa raih tetapi coba untuk bisa melakukan sesuatu untuk mencari harapan baru.
+pernah ga kamu jalan-jalan ke peternakan, disana kita bisa lihat sapi bewarna coklat, atau putih hitam, atau sejenisnya. Bayangkan jika kita menemukan sapi warna ungu, hmm ada ga ya? Rata-rata sapi warna nya kan hitam-putih, Kalau ada mungkin kita langsung kaget, foto foto selfie dan langsung cerita ke orang lain,
 
-Sebut saja namanya Agus. Dia mendapatkan tawaran beasiswa di Amerika selama 2 tahun Free dan semua biaya hidup ditanggung. Tapi keadaan keluarga tak bisa ditinggalkannya. Dia hanya tinggal bersama ibunya yang sedang sakit, tak ada ayah dan saudara yang bisa membantu mengurus ibunya. Benar-benar sendiri. Ibunya juga tak mungkin dibawa ke Amerika bersamanya karena ketidakmampuan fisik dan biaya. Agus dihadapkan pada pilihan yang susah.
+sekarang coba bayangkan diri kamu menjadi seperti sapi ungu, kamu akan menjadi pusat perhatian, semua orang akan fokus melihat kamu, mengapa? karna sapi tsb memiliki warna yg tidak biasa dan berbeda dengan yg lainnya.
 
-gak kebayang kan nyesek nya, tapi apa boleh buat, kamu harus menentukan 1 pilihan walaupun itu berat 
-Hidup menyajikan banyak pilihan, dengan segala konsekuensinya. Terkadang kita juga ngga tahu persis apakah yang kita pilih itu benar atau salah, pilihan yang akan menentukan masa depan kita. kita harus siap menerima resiko dengan pilihan dan menerima konsekuensi dengan pilihan yang kita pilih .
+apa maksud nya? makna yg kita ambil adalah kita harus menjadi orang yang berbeda dalam artian positif, minoritas tapi berkualitas, daripada mayoritas tapi biasa biasa saja. orang cenderung akan melihat dan memperhatikan sesuatu yg baru, sesuatu yg biasa2 saja akan mudah terlupakan, dan luput dari perhatian
 
-Cobalah pahami jika memang semuanya tidak semudah yang kamu harapkan, mulailah dengan langkah kecil. Selalu ingat satu hal yang besar dimulai dari hal-hal kecil. Bersyukur dengan apa yang kamu miliki saat ini akan membuat kamu merasa lebih bahagia.
+temen2 bisa membaca buku purple cow karya seth godin, buku tentang Marketing yang ditulis oleh Seth Godin pada tahun 2002. Buku ini berisi tentang bagaimana caranya bisa menghasilkan produk-produk berkualitas serta memiliki nilai jual tinggi.
+
+pada buku tersebut Seth Godin sedang berjalan-jalan di sebuah peternakan dengan banyak gerombolan sapi yang sedang memakan rumput. Beberapa saat lamanya, Seth Godin sangat menikmati pemandangan yang indah di sebuah peternakan dengan sapi-sapi yang bergerombol. Namun lama-kelamaan Seth Godin merasa jenuh dengan pemandangan sapi yang biasa-biasa saja. Ia berpikir jika ada satu buah sapi berwarna ungu diantara gerombolan sapi tersebut, maka akan terlihat lebih indah pemandangannya karena terlihat unik dan menarik dan mencolok bedanya dengan yang lain.
+
+perbedaan adalah sesuatu yang biasa dan baik, kebanyakan dari kita berfikir untuk berusaha menjadi seperti orang lain, padahal tuhan sengaja menciptakan kita berbeda, karena sesuatu yg berbeda itu mudah dikenali orang lain.
+
+nih coba banyangin, orang yg jualan bakso ada banyak. yg jualan mie ayam juga banyak. Bagaimana caranya dari sekian banyak saingan yang berjualan bakso dan mie ayam seperti contoh tadi? maka dari itu mengapa penting menjadi beda. Kalau katanya Seth Godin, Pakar Marketing Dunia, beliau bilang jadilah “Sapi Ungu”.
+
+Disaat sapi yang lain warnanya putih, coklat, atau hitam seperti warna sapi yang kita tau, di sini kamu harus jadi sapi yang warnanya ungu. Disaat orang lain jualan bakso isinya telur ayam, kamu jualan bakso isinya telur asin. Jadilah beda, jadilah unik, dilirik karena menarik
+
+Seperti yang dikatakan oleh godin, jika dalam perkumpulan sapi semuanya berwana putih belang-belang hitam, dan kamu menjadi sapi ungu di kumpulan sapi tersebut ,maka kamu akan dilirik karena kamu berbeda dan mencolok. Begitu juga dengan usaha atau bisnis.  misalnya kamu bekerja di perusahaan, Pekerja lain terlihat biasa2 saja, maka kamu harus ramah supaya atasan kamu melirik kamu karena perbedaan mu dari yang lain. 
+
+kamu tau Komputer Apple? siapa sih yg gatau komputer besutan apple ini, Komputer Apple memasuki bisnis komputer paling belakangan, dan hanya dengan modal kecil, mampu memenangkan persaingan melawan raksasa seperti IBM, dengan tidak menantang langsung. Maka Apple muncul dengan menampilkan desain yang unik dan menarik dan menyatakan ini adalah komputer baru yang benar-benar berbeda dari yang ada. Komputer pribadi yang ramah dengan pemakainya. Dan mungkin kita semua tahu kisah selanjutnya, Apple bahkan terus melaju, bukan hanya dengan produk komputer, tetapi juga iPod, iPad, dan iPhone yang masih mengandalkan desain menarik dan sangat ramah dengan pemakainya.
+bukan main tuh, target bisnis nya apple aja sekelas perusahaan besar / orang2 kelas menengah ke atas
+
+seperti hal nya elang yang terbang bebas di langit. Menjadi yang berbeda memang tak semudah menaikan resleting celana. Kita akan menghadapi begitu banyak kerikil tajam bahkan duri.
+
+Ketika yang lain menghabiskan seluruh waktunya untuk bersenang-senang, anda dengan giat membangun suatu peluang usaha. Ketika yang lain tidur pulas, anda masih tetap buka mata untuk bekerja keras.
+
+Orang-orang yang kebanyakan berhasil adalah orang yang memiliki penglihatan yang berbeda dibanding yang lain. ya walaupun saya juga blm jadi yg berhasil haha, Hanya saja bagaimana kita bisa berbeda dari yg lain
