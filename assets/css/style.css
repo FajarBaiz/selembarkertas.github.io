@@ -1,3 +1,124 @@
+.columns {
+  display: flex;
+  display: -webkit-box;
+  display: -moz-flex;
+  display: -webkit-flex;
+}
+
+.columns .column {
+  flex-basis: 0;
+  -webkit-box-flex: 1;
+          flex-grow: 1;
+  flex-shrink: 1;
+  padding: 0.75rem;
+}
+
+
+.cards {
+  position: relative;
+  box-shadow: 0 4px 8px 0 #EEEEEE, 0 6px 20px 0 #EEEEEE;
+  padding: 1.5rem !important;
+  border-radius: 10px;
+  word-break: break-word;
+  margin: 0 10px;
+  -webkit-box-pack: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+}
+.darkmode .cards{
+  box-shadow: 0 4px 8px 0 #282828, 0 6px 20px 0 #282828;
+}
+.cards.is-block {
+  display: block;
+}
+
+.cards .title {
+  margin-bottom: 10px;
+  color: #2d2d2d;
+}
+
+.darkmode .titless{
+  color: #fff
+}
+
+.cards .title.is-light {
+  font-weight: 400;
+  font-size: 1.3rem;
+}
+
+.cards .content {
+  color: #525050;
+  font-size: 0.9rem;
+}
+
+.cards .extra {
+  margin-top: 10px;
+}
+
+.cards img {
+  max-width: 80%;
+}
+
+.cards .cover {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.cards p {
+  white-space: pre-line;
+}
+
+.cards a {
+  text-decoration: underline;
+}
+.cards:hover {
+	background: #EFEFF4;
+}
+.darkmode .cards:hover {
+	background: #282828
+}
+
+.card-footer {
+  margin-top: 10px;
+  -webkit-box-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: end;
+          align-items: flex-end;
+}
+
+
+.darkmode .h4-kelas{
+  color: #EEEEEE
+}
+
+.darkmode .judul-kelas{
+  color: #EEEEEE
+}
+
+.darkmode p{
+  color: #EEEEEE
+}
+.h4-kelas{
+  color: #000
+}
+
+p{
+  color: #525050
+}
+
+a.cards:hover {
+  box-shadow: 0 10px 20px 0 #EEEEEE, 0 10px 30px 0 #EEEEEE;
+}
+.darkmode a.cards:hover {
+  box-shadow: 0 10px 20px 0 #282828, 0 10px 30px 0 #282828;
+}
+
 @media only screen and (max-width: 780px){
 	.tweet{
 		display: none;
@@ -31,7 +152,7 @@ body {
 	background: #FFFFFF;
 	color: rgb(87, 87, 87);
 	margin: 0% auto;
-	width: 45%;
+	width: 70%;
 	font-size: 1rem;
 	line-height: 1.6rem;
 	font-family: "tulisans";
@@ -196,7 +317,7 @@ header {
 	cursor: pointer
 }
 body.darkmode {
-	background: #181E25;
+	background: #2D2D2D;
 	color: rgb(227, 227, 227)
 }
 body.darkmode a {
@@ -290,6 +411,9 @@ blockquote {
 		font-size: 1em;
 		margin-top: -15px
 	}
+	.columns{
+    display: block;
+  }
 
 }
 
@@ -372,6 +496,11 @@ a:active {
 	padding: 5px 10px;
 	justify-content: space-between;
 	margin-top: 10px;
+	box-shadow: 0 4px 8px 0 #EEEEEE, 0 6px 20px 0 #EEEEEE;
+	border-radius: 10px
+}
+.darkmode .boxes{
+	box-shadow: 0 4px 8px 0 #282828, 0 6px 20px 0 #282828;
 }
 .boxeses {
 	padding: 5px 10px;
@@ -387,7 +516,7 @@ a:active {
 	background: #EFEFF4;
 }
 .darkmode .boxes:hover {
-	background: #313942
+	background: #282828
 }
 .boxes_active {
 	color: #A168FB
@@ -478,4 +607,29 @@ footer a{
 	background: #2A343E;
 	width: 60%;
 	color: white
+}
+
+.alam{
+	display: flex; justify-content: space-around;
+}
+.alam2{
+	display: flex; justify-content: space-around;
+}
+@media only screen and (max-width: 991px) {
+	.heads{
+		margin-bottom: 50px
+	}
+	.alam{
+		display: block;
+	}
+	.alam2{
+		display: block;
+	}
+
+}
+@media only screen and (max-width: 768px) {
+	.heads{
+		margin-bottom: 90px
+	}
+
 }
